@@ -1,0 +1,7 @@
+c:\users\psuneel\documents\visual studio 2012\Projects\NUnitSample\NUnitSample\bin\Debug\NUnitSample.dll
+c:\users\psuneel\documents\visual studio 2012\Projects\NUnitSample\NUnitSample\bin\Debug\NUnitSample.pdb
+c:\users\psuneel\documents\visual studio 2012\Projects\NUnitSample\NUnitSample\bin\Debug\nunit.framework.dll
+c:\users\psuneel\documents\visual studio 2012\Projects\NUnitSample\NUnitSample\bin\Debug\nunit.framework.xml
+c:\users\psuneel\documents\visual studio 2012\Projects\NUnitSample\NUnitSample\obj\Debug\NUnitSample.dll
+c:\users\psuneel\documents\visual studio 2012\Projects\NUnitSample\NUnitSample\obj\Debug\NUnitSample.pdb
+C:\Users\psuneel\Documents\Visual Studio 2012\Projects\NUnitSample\NUnitSample\obj\Debug\NUnitSample.csprojResolveAssemblyReference.cache
